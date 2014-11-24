@@ -1,0 +1,27 @@
+{
+  "taskList": [
+    {
+      "tarea": 1,
+      "contexto": "a ver que sale",
+      "projecto": "una nota de prueba",
+      "prioridad": "HIGH"
+    },
+    {
+      "tarea": 2,
+      "contexto": "aabababa",
+      "projecto": "sdadwaea",
+      "prioridad": "LOW"
+    },
+    {
+      "tarea": 3,
+      "contexto": "eyyy",
+      "projecto": "jejejeje",
+      "prioridad": "LOW"
+    },
+    {
+      "tarea": 4,
+      "contexto": "?",
+      "projecto": "?"
+    }
+  ]
+}
