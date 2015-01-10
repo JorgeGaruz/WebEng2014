@@ -1,0 +1,31 @@
+{
+  "nextId": 5,
+  "taskList": [
+    {
+      "tarea": 1,
+      "contexto": "a ver que sale",
+      "projecto": "una nota de prueba",
+      "prioridad": "HIGH"
+    },
+    {
+      "tarea": 2,
+      "contexto": "GPS",
+      "projecto": "hacer presentacion",
+      "prioridad": "HIGH",
+      "href": "http://localhost:8085/tasks/tasks/2"
+    },
+    {
+      "tarea": 3,
+      "contexto": "BABABABAB",
+      "projecto": "hacer presentacion",
+      "prioridad": "MID",
+      "href": "http://localhost:8085/tasks/tasks/3"
+    },
+    {
+      "tarea": 4,
+      "contexto": "IW",
+      "projecto": "websockets",
+      "prioridad": "HIGH"
+    }
+  ]
+}
